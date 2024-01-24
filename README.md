@@ -25,8 +25,8 @@
 
 结论：输入是，输出是，做了什么，做了信息交流
 
-找模型limitations可以问gpt
+- 找模型limitations可以问gpt
 
-找缺点，如何解决可能为创新点？
+- 找缺点，如何解决可能为创新点？
 
-experiment不用特别仔细看
+- experiment不用特别仔细看
